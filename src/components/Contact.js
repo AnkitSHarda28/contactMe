@@ -35,7 +35,7 @@ function Contact() {
 
   return (
     <form className="form" onSubmit={handleSubmit}>
-      <h1>Contact Ankit ☎️</h1>
+      <h1>Contact Ankit Sharda ☎️</h1>
 
       <label className="Name">Name</label>
       <input
